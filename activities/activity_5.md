@@ -69,6 +69,7 @@ We encourage you to do some of your own research and experimentation in your own
 
 - Can you find a way to test multiple different Bubble Tea Requests without having to repeat the same test code again
 and again? **Hint**: You may want to have a think about Jest test parameterisation 🤔.
+ Had to use  npm test -- --verbose=true to display test outputs for the test.each
   
 ---
 ### Key Study Notes
